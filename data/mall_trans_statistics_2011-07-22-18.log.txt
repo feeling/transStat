@@ -1,0 +1,11 @@
+transDuration,2,ShopService.getShopConfig
+transDuration,3,SellerService.getSeller
+transDuration,198,DistrictService.getDistrict
+transDuration,1,SalesService.check
+transDuration,1,SellerService.getList
+transDuration,0,SellerService.getCategory
+transDuration,3,SellerService.getShopDetail
+transDuration,1,SellerService.getShop
+transDuration,2,CategoryService.getCategory
+transDuration,2,CategoryService.getCategory
+transDuration,2,CategoryService.getCategory
